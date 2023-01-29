@@ -1,0 +1,1 @@
+When pressed, sends a stop command to connected nodes through rosserial.
